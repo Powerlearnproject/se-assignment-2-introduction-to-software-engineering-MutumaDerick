@@ -7,12 +7,12 @@ Answer the following questions based on your understanding of software engineeri
 
 Questions:
 Define Software Engineering:
-  Software engineering is a systematic, disciplined, and quantifiable approach to the development, operation, and maintenance of software. It applies engineering principles to software creation, ensuring reliability, efficiency, and scalability.
+    Software engineering is a systematic, disciplined, and quantifiable approach to the development, operation, and maintenance of software. It applies engineering principles to software creation, ensuring reliability, efficiency, and scalability.
 What is software engineering, and how does it differ from traditional programming?
-  -Scope: Traditional programming focuses on writing code, while software engineering encompasses the entire software development lifecycle (SDLC), including planning, design, development, testing, deployment, and maintenance.
-  -Process: Software engineering uses structured methodologies and best practices (like Agile, Waterfall) to manage complexity and ensure quality, whereas traditional programming may follow an ad-hoc approach.
-  -Collaboration: Software engineering emphasizes teamwork and communication among stakeholders, while traditional programming may involve individual or small team efforts.
-  -Documentation: Extensive documentation is a hallmark of software engineering, aiding maintenance and future development, unlike the minimal documentation in traditional programming.
+    -Scope: Traditional programming focuses on writing code, while software engineering encompasses the entire software development lifecycle (SDLC), including planning, design, development, testing, deployment, and maintenance.
+    -Process: Software engineering uses structured methodologies and best practices (like Agile, Waterfall) to manage complexity and ensure quality, whereas traditional programming may follow an ad-hoc approach.
+    -Collaboration: Software engineering emphasizes teamwork and communication among stakeholders, while traditional programming may involve individual or small team efforts.
+    -Documentation: Extensive documentation is a hallmark of software engineering, aiding maintenance and future development, unlike the minimal documentation in traditional programming.
 Software Development Life Cycle (SDLC):
 
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
